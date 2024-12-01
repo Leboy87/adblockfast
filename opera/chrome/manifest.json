@@ -26,7 +26,7 @@
     "run_at": "document_start",
     "all_frames": true
   }],
-  "browser_action": {
+  "browser_action": { 
     "default_icon": { "19": "images/blocked/19.png", "38": "images/blocked/38.png" },
     "default_title": "Unblock ads on this site"
   }
